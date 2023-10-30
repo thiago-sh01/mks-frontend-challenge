@@ -28,7 +28,7 @@ Ferramentas requeridas
 
 1. TypeScript
 2. React ou Next.js (Preferimos Next.js)
-3. Redux toolkit
+3. React-query
 4. Styled-components
 5. Jest
 
@@ -40,4 +40,4 @@ Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta
 Faça o deploy!
 ---------------
 
-Ao finalizar, faça o deploy no lugar que te for confortável (exemplo: Vercel, Netlify, Heroku, Amazon EC2, etc)
+Ao finalizar, faça o deploy no lugar que te for confortável (exemplo: Vercel, Netlify, Heroku, Amazon EC2, App Runner, etc)
