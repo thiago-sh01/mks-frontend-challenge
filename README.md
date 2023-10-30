@@ -6,7 +6,7 @@ O objetivo principal desse teste é avaliar sua capacidade de escrever código l
 Tarefa (funcional)
 ---------------
 
-Para esse desafio, você deve consumir nossa [API REST de produtos](https://mks-challenge-api-frontend.herokuapp.com/api-docs/) para exibir a lista de produtos da loja.
+Para esse desafio, você deve consumir nossa [API REST de produtos](https://mks-frontend-challenge-04811e8151e6.herokuapp.com/api-docs/) para exibir a lista de produtos da loja.
 
 A aplicação deve conter apenas uma página/rota e um carrinho.
 
