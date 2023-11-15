@@ -30,7 +30,7 @@ Ferramentas requeridas
 2. React ou Next.js (Preferimos Next.js)
 3. React-query
 4. Styled-components ou SASS
-5. framer-motion
+5. Framer-motion
 6. Jest
 
 Aspectos técnicos
