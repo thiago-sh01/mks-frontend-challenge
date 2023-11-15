@@ -29,8 +29,9 @@ Ferramentas requeridas
 1. TypeScript
 2. React ou Next.js (Preferimos Next.js)
 3. React-query
-4. Styled-components
-5. Jest
+4. Styled-components ou SASS
+5. framer-motion
+6. Jest
 
 Aspectos técnicos
 ---------------
