@@ -1,7 +1,7 @@
 Diretrizes do desafio
 ===========================
 
-O objetivo principal desse teste é avaliar sua capacidade de escrever código limpo, bem testado e reutilizável. Ao terminar, faça o deploy da aplicação e mande-nos o link.
+O propósito primordial desta avaliação consiste em analisar sua proficiência na elaboração de código que seja claro, meticulosamente testado e passível de reutilização. Ao concluir a tarefa, solicitamos a gentileza de proceder com o deployment da aplicação e de nos fornecer, concomitantemente, os links correspondentes ao aplicativo e ao repositório associado. Este procedimento possibilitará uma análise abrangente do seu desempenho, sendo de suma importância para o desdobramento subsequente do processo avaliativo.
 
 Tarefa (funcional)
 ---------------
@@ -36,9 +36,9 @@ Ferramentas requeridas
 Aspectos técnicos
 ---------------
 
-Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta-se livre para utilizar de qualquer outra technologia que te seja confortável.
+Todas as ferramentas previamente elencadas são consideradas requisitos essenciais e, portanto, imprescindíveis para a realização deste projeto. Adicionalmente, sinta-se à vontade para empregar qualquer outra tecnologia que julgar pertinente e confortável para o desenvolvimento do mesmo. A flexibilidade para a utilização de recursos adicionais visa propiciar um ambiente propício à expressão de suas habilidades e à implementação de soluções que melhor se alinhem à sua abordagem e experiência.
 
 Faça o deploy!
 ---------------
 
-Ao finalizar, faça o deploy no lugar que te for confortável (exemplo: Vercel, Netlify, Heroku, Amazon EC2, App Runner, etc)
+Ao concluir o desenvolvimento, proceda com o deployment da aplicação no ambiente que lhe for mais conveniente, como por exemplo, AWS Amplify, Vercel, Netlify, Heroku, Amazon EC2, App Runner, entre outros. A escolha da plataforma de hospedagem fica a seu critério, sendo essencial assegurar que o aplicativo esteja acessível de maneira estável e eficaz para a avaliação subsequente.
