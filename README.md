@@ -19,7 +19,7 @@ Use do Jest e a testing-library para realizar os testes unitários.
 Recursos
 ---------------
 
-UI/UX: [Figma loja](https://www.figma.com/file/Z4z8osDbK1ET7cjNzFRMrK/MKS-Front-end-challenge?node-id=0%3A1) PS: O design system está incluso, incluindo a fonte.
+UI/UX: [Figma loja](https://www.figma.com/file/ay9JKCd6LKvKLE7TclJJkX/MKS-Front-end-challenge?type=design&node-id=0%3A1&mode=design&t=AlZMI9zkOlhrx6JF-1) PS: O design system está incluso, incluindo a fonte.
 
 API: [API REST de produtos](https://mks-frontend-challenge-04811e8151e6.herokuapp.com/api-docs/) para exibir a lista de produtos da loja.
 
